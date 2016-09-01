@@ -1,0 +1,36 @@
+Debugging
+
+
+DiceGame:
+	Bug description
+	Bug fix
+
+
+Simple Craps
+	Bug description: System print line did not clearly show user their wins versus losses.
+
+	Bug fix: I changed the text and added a line break in the code to separate the wins and losses. 
+
+RPN Calculator
+	Bug description
+	Bug fix
+
+Bank Account
+	Bug description
+	Bug fix
+
+Bowling Game
+	Bug: print line 
+
+Class Roster
+	Bug description
+	Bug fix
+
+Class Roster and DataBase:
+	Bug description
+	Bug fix 
+
+
+Junitlesson TestAccount:
+	Bug description: The test file was missing the @Before statement at the beginnning of the code.  
+	Bug fix: I added @Before to the beginning of the code so that the compiler would check that section before running the test. 
